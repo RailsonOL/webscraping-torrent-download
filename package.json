@@ -1,0 +1,23 @@
+{
+  "name": "api-torrent-download",
+  "version": "1.0.0",
+  "description": "Usando Web Scraping, ele pega dados de um site de torrent e retorna. feito apenas com intenção de aprendizado.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "web",
+    "scraping",
+    "nodejs",
+    "cheerio",
+    "torrent"
+  ],
+  "author": "RaiOL",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1"
+  }
+}
