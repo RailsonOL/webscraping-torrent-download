@@ -4,7 +4,7 @@
   "description": "Usando Web Scraping, ele pega dados de um site de torrent e retorna. feito apenas com intenção de aprendizado.",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node ./app.js"
   },
   "keywords": [
     "web",
