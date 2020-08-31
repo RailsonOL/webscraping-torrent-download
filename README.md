@@ -1,2 +1,2 @@
 # webscraping-torrent-download
-  Bot que consome a API Torrent Download e retorna de forma interativa
+ API que retorna dados de um site de Torrent
